@@ -1,0 +1,38 @@
+html {
+    background-color: lightblue;
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Spicy Rice', cursive;
+    font-size: 40px;
+}
+
+.paragraph {
+    border: solid;
+    text-align: center;
+    background-color: lightpink;
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.languageList {
+    justify-content: center;
+    display: flex;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-size: 20px;
+}
+
+.formData {
+    justify-content: center;
+    display: flex;
+}
+.formData label {
+    font-family: 'Mali', cursive;
+    font-weight: bolder;
+}
+
+.input {
+    color: red;
+}
